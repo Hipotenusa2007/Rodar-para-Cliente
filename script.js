@@ -42,7 +42,7 @@ if (btnPedido) {
       `Endereço: ${endereco}%0A` +
       `Observações: ${observacoes}`;
 
-    const numero = "5591993485478";
+    const numero = "5591993975707";
     const link = `https://wa.me/${numero}?text=${mensagem}`;
 
     window.open(link, "_blank");
